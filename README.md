@@ -1,2 +1,0 @@
-# README
-Quem sou eu
